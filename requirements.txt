@@ -1,0 +1,35 @@
+# Requirements for Machine Learning Algorithms
+# Includes EDA, Visualization, Modeling, Evaluation, and Explainability
+
+# Core Numerical & Data Handling
+numpy
+pandas
+scipy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+missingno
+
+# Machine Learning
+scikit-learn
+statsmodels
+
+# Model Explainability
+shap
+lime
+
+# EDA & Profiling
+ydata-profiling
+
+# Optimization
+optuna
+
+# Notebook Environment
+jupyter
+ipykernel
+
+# Dataset Handling
+kagglehub
+python-dotenv
